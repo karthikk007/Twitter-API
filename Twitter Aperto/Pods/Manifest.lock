@@ -1,0 +1,16 @@
+PODS:
+  - STTwitter (0.2.6)
+
+DEPENDENCIES:
+  - STTwitter
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - STTwitter
+
+SPEC CHECKSUMS:
+  STTwitter: 30ee2f79eff78c3d633a1edc869e97db9c9ead59
+
+PODFILE CHECKSUM: e8a5021fa2d0cdd36785382ee82c764a1519a47e
+
+COCOAPODS: 1.5.2
